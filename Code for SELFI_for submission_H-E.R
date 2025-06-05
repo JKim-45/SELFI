@@ -87,7 +87,7 @@ for(i in 1:n_of_exp)
     sensitivity = roc_curve_C$sensitivities,
     specificity = roc_curve_C$specificities
   )
-  file_name <- paste("CLFA_ROC_",as.character(i))
+  file_name <- paste("SELFI_ROC_",as.character(i))
   file_name <- paste(file_name,".xlsx")
   write.xlsx(roc_C_temp, file = file_name, sheetName = "temp", rownames = FALSE)
   
