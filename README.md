@@ -2,10 +2,9 @@ How to use these codes:
 
 - Download and place R codes and Whole.xlsx file in same folder
   
-- In Whole.xlsx (raw datas);
-  	stats 0 (raw 2 to 51) - samples from healthy control
-  	stats 1 (raw 52 to 91) - samples from Early-stage PDAC patients
-  	stats 1 (raw 92 to 151) - samples from Late-stage PDAC patients
+- stats 0 (raw 2 to 51) - samples from healthy control
+- stats 1 (raw 52 to 91) - samples from Early-stage PDAC patients
+- stats 1 (raw 92 to 151) - samples from Late-stage PDAC patients
   
 - Open the code what you want;  
 	H-E means Healthy control versus Early stage PDAC  
